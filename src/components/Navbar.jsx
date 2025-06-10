@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Search, MapPin, User, ChevronRight } from 'lucide-react';
-import logo from './assets/logo.png'
+import logo from '../assets/logo.png';
 const Navbar = ({ currentPage, setCurrentPage }) => {
     const [activeDropdown, setActiveDropdown] = useState(null);
 
