@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Search, MapPin, User, ChevronRight } from 'lucide-react';
-
+import logo from './assets/logo.png'
 const Navbar = ({ currentPage, setCurrentPage }) => {
     const [activeDropdown, setActiveDropdown] = useState(null);
 
@@ -192,12 +192,11 @@ const Navbar = ({ currentPage, setCurrentPage }) => {
                             className="cursor-pointer mr-8 group"
                             onClick={() => setCurrentPage && setCurrentPage('home')}
                         >
-                            <div className="text-2xl font-bold text-white group-hover:text-gray-300 transition-colors">
-                                komax
-                            </div>
-                            <div className="text-xs text-gray-200 mt-1 font-light tracking-wide">
-                                Automated Wire Processing
-                            </div>
+                            <img 
+                                src={logo}
+                                alt="Komax - Automated Wire Processing" 
+                                className="h-10 w-auto group-hover:opacity-80 transition-opacity"
+                            />
                         </div>
 
                         {/* Navigation Links */}
