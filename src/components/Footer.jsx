@@ -9,9 +9,9 @@ const Footer = () => {
                     <div className="grid md:grid-cols-5 gap-8">
                         {/* Company Info */}
                         <div className="md:col-span-2">
-                            <div className="text-2xl font-bold mb-6 text-gray-900">komax</div>
+                            <div className="text-2xl font-bold mb-6 text-gray-900">STTELLAR DAWANG</div>
                             <p className="text-gray-600 text-sm leading-relaxed mb-6">
-                                Komax is a leading global provider of innovative solutions for wire processing.
+                                STTELLAR DAWANG is a leading global provider of innovative solutions for wire processing.
                                 With over 50 years of experience, we connect the world through cutting-edge technology
                                 and exceptional service.
                             </p>
@@ -94,7 +94,7 @@ const Footer = () => {
                     <div className="flex flex-col md:flex-row justify-between items-center">
                         <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-6 mb-4 md:mb-0">
                             <p className="text-gray-500 text-sm">
-                                © 2025 Komax Holding AG. All rights reserved.
+                                © 2025 STTELLAR DAWANG Holding AG. All rights reserved.
                             </p>
                             <div className="flex space-x-4">
                                 <span className="text-gray-500 text-sm hover:text-red-600 cursor-pointer transition-colors relative group">
