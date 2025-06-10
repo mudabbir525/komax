@@ -20,7 +20,7 @@ const Homepage = ({ setCurrentPage, setSelectedProduct }) => {
             id: 1,
             category: "Twister",
             name: "SIGMA 688 LTT",
-            description: "Manufacture UTP cables with the new LTT (low torsion twisting) quality standard using proven Komax technology within the Sigma family.",
+            description: "Manufacture UTP cables with the new LTT (low torsion twisting) quality standard using proven Sttellar Dawang technology within the Sigma family.",
             image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcl941OCfMiSlU96SL6FJci0VfdfqTuBHWVw&s?w=400&h=300&fit=crop&crop=center",
             type: "machine"
         },
@@ -36,7 +36,7 @@ const Homepage = ({ setCurrentPage, setSelectedProduct }) => {
             id: 3,
             category: "Taping",
             name: "KTR 5",
-            description: "The KTR 5 is the smallest model from Komax with an open bundling head. The operator-controlled machine is ideal for taping wire harness lengths of 1.5 meters or more.",
+            description: "The KTR 5 is the smallest model from Sttellar Dawang with an open bundling head. The operator-controlled machine is ideal for taping wire harness lengths of 1.5 meters or more.",
             image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtBK9PKhv9lQXFtKRE9nI6gj8KFi0IOdJRQA&s",
             type: "machine"
         }
@@ -52,14 +52,14 @@ const Homepage = ({ setCurrentPage, setSelectedProduct }) => {
 
         },
         {
-            title: "Komax with self-designed solar robot at this year's LUGA",
+            title: "Sttellar Dawang with self-designed solar robot at this year's LUGA",
             author: "Matthias Wüller",
             date: "5 May 2025",
-            category: "Inside Komax",
+            category: "Inside Sttellar Dawang",
             image: "https://eu-central-1-enterprise-euc1.graphassets.com/Axl5x2heXSkS3gUfqbj1Cz/resize=fit:crop,width:780/output=format:png/quality=value:90/cmaarbc6h5uiy07uonfouky6s"
         },
         {
-            title: "SMART FACTORY by KOMAX – from vision to reality",
+            title: "SMART FACTORY by Sttellar Dawang – from vision to reality",
             author: "Roger Müller",
             date: "29 April 2025",
             category: "Technology & Innovation",
@@ -109,7 +109,7 @@ const Homepage = ({ setCurrentPage, setSelectedProduct }) => {
                                         <path d="M13 6a3 3 0 11-6 0 3 3 0 016 0zM18 8a2 2 0 11-4 0 2 2 0 014 0zM14 15a4 4 0 00-8 0v3h8v-3z" />
                                     </svg>
                                 </div>
-                                <h3 className="text-2xl font-bold mb-4 group-hover:text-red-500 transition-colors">Work at Komax</h3>
+                                <h3 className="text-2xl font-bold mb-4 group-hover:text-red-500 transition-colors">Work at Sttellar Dawang</h3>
                                 <p className="text-gray-600 mb-6 text-lg">At home and abroad opportunities</p>
                                 <button className="text-red-500 hover:text-red-700 flex items-center mx-auto font-medium group">
                                     Start your career
@@ -121,7 +121,7 @@ const Homepage = ({ setCurrentPage, setSelectedProduct }) => {
                                 <div className="w-20 h-20 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-6 group-hover:bg-blue-200 transition-colors">
                                     <MapPin className="w-10 h-10 text-blue-500" />
                                 </div>
-                                <h3 className="text-2xl font-bold mb-4 group-hover:text-blue-500 transition-colors">Get in touch with Komax</h3>
+                                <h3 className="text-2xl font-bold mb-4 group-hover:text-blue-500 transition-colors">Get in touch with Sttellar Dawang</h3>
                                 <p className="text-gray-600 mb-6 text-lg">100+ Locations, 6 Continents</p>
                                 <button className="text-blue-500 hover:text-blue-700 flex items-center mx-auto font-medium group">
                                     Contact us
@@ -135,7 +135,7 @@ const Homepage = ({ setCurrentPage, setSelectedProduct }) => {
                                         <path d="M2 5a2 2 0 012-2h7a2 2 0 012 2v4a2 2 0 01-2 2H9l-3 3v-3H4a2 2 0 01-2-2V5zM15 7v2a4 4 0 01-4 4H9.828l-1.766 1.767c.28.149.599.233.938.233h2l3 3v-3h2a2 2 0 002-2V9a2 2 0 00-2-2h-1z" />
                                     </svg>
                                 </div>
-                                <h3 className="text-2xl font-bold mb-4 group-hover:text-green-500 transition-colors">Komax Stories</h3>
+                                <h3 className="text-2xl font-bold mb-4 group-hover:text-green-500 transition-colors">Sttellar Dawang Stories</h3>
                                 <p className="text-gray-600 mb-6 text-lg">Insights into the world of wire processing</p>
                                 <button className="text-green-500 hover:text-green-700 flex items-center mx-auto font-medium group">
                                     Read more
@@ -150,7 +150,7 @@ const Homepage = ({ setCurrentPage, setSelectedProduct }) => {
                 <div className="bg-gray-50 py-20">
                     <div className="max-w-7xl mx-auto px-6">
                         <div className="text-center mb-16">
-                            <h2 className="text-4xl font-bold mb-4">Start exploring THE WORLD OF KOMAX</h2>
+                            <h2 className="text-4xl font-bold mb-4">Start exploring THE WORLD OF Sttellar Dawang</h2>
                             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
                                 Discover our innovative wire processing solutions designed to meet the highest standards of quality and efficiency
                             </p>
@@ -193,7 +193,7 @@ const Homepage = ({ setCurrentPage, setSelectedProduct }) => {
                         <div className="flex justify-between items-center mb-12">
                             <div>
                                 <p className="text-gray-600 mb-2 text-lg">Read the latest</p>
-                                <h2 className="text-4xl font-bold">KOMAX STORIES</h2>
+                                <h2 className="text-4xl font-bold">Sttellar Dawang STORIES</h2>
                             </div>
                             <button className="text-red-500 hover:text-red-700 flex items-center text-lg font-medium group">
                                 See all
@@ -280,7 +280,7 @@ const Homepage = ({ setCurrentPage, setSelectedProduct }) => {
                                         Celebrating Five Decades of Wire Processing Excellence
                                     </h2>
                                     <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                                        From our founding in 1975 to today, Komax has been at the forefront of wire processing innovation,
+                                        From our founding in 1975 to today, Sttellar Dawang has been at the forefront of wire processing innovation,
                                         serving customers worldwide with cutting-edge solutions and unwavering commitment to quality.
                                     </p>
                                     <button className="bg-red-500 hover:bg-red-600 text-white px-8 py-4 rounded-lg font-medium transition-all duration-300 transform hover:scale-105 flex items-center">
@@ -321,7 +321,7 @@ const Homepage = ({ setCurrentPage, setSelectedProduct }) => {
                     <div className="max-w-7xl mx-auto px-6 text-center">
                         <h2 className="text-5xl font-bold text-white mb-6">Ready to Transform Your Wire Processing?</h2>
                         <p className="text-xl text-gray-300 mb-12 max-w-3xl mx-auto leading-relaxed">
-                            Join thousands of manufacturers worldwide who trust Komax for their wire processing needs.
+                            Join thousands of manufacturers worldwide who trust Sttellar Dawang for their wire processing needs.
                             Let's discuss how our solutions can optimize your production.
                         </p>
                         <div className="flex flex-col sm:flex-row gap-6 justify-center">
