@@ -195,7 +195,7 @@ const Navbar = ({ currentPage, setCurrentPage }) => {
                             <img 
                                 src={logo}
                                 alt="Komax - Automated Wire Processing" 
-                                className="h-10 w-auto group-hover:opacity-80 transition-opacity"
+                                className="h-30 w-auto group-hover:opacity-80 transition-opacity"
                             />
                         </div>
 
